@@ -24,12 +24,12 @@
 <tr>
 <td valign="top" width="60%">
 
-I'm a data analyst and aspiring actuary who turns raw data into clear, decision-ready insights. I actively blend AI-assisted workflows with analytical rigour to deliver faster, sharper results.
+I am a data analyst and aspiring actuary who turns raw data into clear, decision-ready insights. I actively blend AI-assisted workflows with analytical rigour to deliver faster, sharper results.
 
 </td>
 <td valign="top" width="40%">
 
-AI-augmented workflows — Claude / Anthropic<br>
+AI-augmented workflows - Claude / Anthropic<br>
 Deepening: Advanced SQL & BI storytelling<br>
 Open to: Data Analyst · Actuarial Analyst roles<br>
 
@@ -57,21 +57,21 @@ Open to: Data Analyst · Actuarial Analyst roles<br>
 
 | Period | Role | Organisation |
 |--------|------|--------------|
-| **Feb 2026 – Present** | Data Analyst in Training | FSI Outsourcing, Lusaka |
-| **Mar–Jun 2025** | Data Clerk | KCM Green Ltd *(World Bank Project)* |
-| **Dec 2024 – Jan 2025** | Research Assistant — Data Collection | Zambia Statistical Agency |
-| **Mar–Nov 2024** | Data Clerk | KCM Green Ltd *(World Bank Project)* |
+| **Feb 2026 - Present** | Data Analyst in Training | FSI Outsourcing, Lusaka |
+| **Mar - Jun 2025** | Data Clerk | KCM Green Ltd *(World Bank Project)* |
+| **Dec 2024 - Jan 2025** | Research Assistant - Data Collection | Zambia Statistical Agency |
+| **Mar - Nov 2024** | Data Clerk | KCM Green Ltd *(World Bank Project)* |
 
 <details>
 <summary><b>📌 Highlights from each role</b></summary>
 
 <br>
 
-**FSI Outsourcing** — Completed an intensive bootcamp in Excel, Power BI, and SQL. Applied Anthropic Academy prompt-engineering techniques to augment productivity in research, data interpretation, and report drafting.
+**FSI Outsourcing** - Completed an intensive bootcamp in Excel, Power BI, and SQL. Applied Anthropic Academy prompt-engineering techniques to augment productivity in research, data interpretation, and report drafting.
 
-**KCM Green Limited** — Contributed to a World Bank–funded Climate Data Rescue & Digitization project at the Zambia Meteorological Department. Helped sort, scan, and digitize **more than half a million** historical meteorological records into a searchable electronic database.
+**KCM Green Limited** - Contributed to a World Bank–funded Climate Data Rescue & Digitization project at the Zambia Meteorological Department. Helped sort, scan, and digitize **more than half a million** historical meteorological records into a searchable electronic database.
 
-**Zambia Statistical Agency** — Supported the Measles-Rubella Vaccine Post-Campaign Coverage Survey (Ministry of Health / ZSA / WHO / Johns Hopkins University), conducting household interviews and capturing clean, analyzable field data across Luapula and Northern provinces.
+**Zambia Statistical Agency** - Supported the Measles-Rubella Vaccine Post-Campaign Coverage Survey (Ministry of Health / ZSA / WHO / Johns Hopkins University), conducting household interviews and capturing clean, analyzable field data across Luapula and Northern provinces.
 
 </details>
 
@@ -79,7 +79,7 @@ Open to: Data Analyst · Actuarial Analyst roles<br>
 
 ## 🎓 Education & Certifications
 
-**University of Zambia** — BSc Actuarial Science *(2023)*
+**University of Zambia** - BSc Actuarial Science *(2023)*
 > Final-year project: *"Situation Analysis of Insurance Products in Lusaka Covering Weather-Related Agricultural Risks"*
 
 <br>
@@ -90,7 +90,7 @@ Open to: Data Analyst · Actuarial Analyst roles<br>
 | Excel Skills for Business | Macquarie University | 2025/26 |
 | Business Statistics and Analysis | Rice University | 2025/26 |
 | Mindware: Critical Thinking for the Information Age | University of Michigan | 2025/26 |
-| Multiple Certificates — Prompt Engineering & AI | Anthropic Academy | 2025/26 |
+| Multiple Certificates - Prompt Engineering & AI | Anthropic Academy | 2025/26 |
 
 ---
 
