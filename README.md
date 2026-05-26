@@ -41,15 +41,15 @@ I'm a data analyst and aspiring actuary who turns raw data into clear, decision-
 
 ## 🛠️ Skills
 
-| Tool | Skill | Progress | Level |
-|:-----|:------|:---------|:-----:|
-| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=microsoft-excel&logoColor=white) | **Microsoft Excel** | `█████████░` | Advanced |
-| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=powerbi&logoColor=white) | **Power BI** *(PL-300)* | `████████░░` | Advanced |
-| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=scipy&logoColor=white) | **Statistical Analysis** | `████████░░` | Advanced |
-| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=anthropic&logoColor=white) | **AI-Assisted Workflows** | `████████░░` | Advanced |
-| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=chartdotjs&logoColor=white) | **Financial Mathematics** | `███████░░░` | Proficient |
-| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=shield&logoColor=white) | **Risk & Insurance** | `███████░░░` | Proficient |
-| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=mysql&logoColor=white) | **SQL** | `██████░░░░` | Intermediate |
+| Skill | Progress | Level |
+|:------|:---------|:-----:|
+| **Microsoft Excel** | `█████████░` | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
+| **Power BI** *(PL-300)* | `████████░░` | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
+| **Statistical Analysis** | `████████░░` | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
+| **AI-Assisted Workflows** | `████████░░` | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
+| **Financial Mathematics** | `███████░░░` | ![](https://img.shields.io/badge/Proficient-1B4B72?style=flat-square) |
+| **Risk & Insurance** | `███████░░░` | ![](https://img.shields.io/badge/Proficient-1B4B72?style=flat-square) |
+| **SQL** | `██████░░░░` | ![](https://img.shields.io/badge/Intermediate-2E6FA3?style=flat-square) |
 
 ---
 
