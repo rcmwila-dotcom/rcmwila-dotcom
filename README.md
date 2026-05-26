@@ -29,9 +29,9 @@ I'm a data analyst and aspiring actuary who turns raw data into clear, decision-
 </td>
 <td valign="top" width="40%">
 
-🤖 &nbsp; AI-augmented workflows — Claude / Anthropic<br>
-🔍 &nbsp; Deepening: Advanced SQL & BI storytelling<br>
-🤝 &nbsp; Open to: Data Analyst · Actuarial Analyst roles<br>
+AI-augmented workflows — Claude / Anthropic<br>
+Deepening: Advanced SQL & BI storytelling<br>
+Open to: Data Analyst · Actuarial Analyst roles<br>
 
 </td>
 </tr>
@@ -79,18 +79,18 @@ I'm a data analyst and aspiring actuary who turns raw data into clear, decision-
 
 ## 🎓 Education & Certifications
 
-**University of Zambia** — BSc Actuarial Science *(Feb 2020 – Nov 2023)*
+**University of Zambia** — BSc Actuarial Science *(2023)*
 > Final-year project: *"Situation Analysis of Insurance Products in Lusaka Covering Weather-Related Agricultural Risks"*
 
 <br>
 
 | Certification | Issuer | Year |
 |:---|:---|:---|
-| 🏅 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** | Microsoft | 2025/26 |
-| 📊 Excel Skills for Business | Macquarie University | 2025/26 |
-| 📈 Business Statistics and Analysis | Rice University | 2025/26 |
-| 🧠 Mindware: Critical Thinking for the Information Age | University of Michigan | 2025/26 |
-| 🤖 Multiple Certificates — Prompt Engineering & AI | Anthropic Academy | 2025/26 |
+| **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** | Microsoft | 2025/26 |
+| Excel Skills for Business | Macquarie University | 2025/26 |
+| Business Statistics and Analysis | Rice University | 2025/26 |
+| Mindware: Critical Thinking for the Information Age | University of Michigan | 2025/26 |
+| Multiple Certificates — Prompt Engineering & AI | Anthropic Academy | 2025/26 |
 
 ---
 
