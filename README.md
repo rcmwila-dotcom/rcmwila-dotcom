@@ -40,43 +40,6 @@ open_to:    Data Analyst · Actuarial Analyst · BI Developer roles
 
 ---
 
-## 🚀 Featured Projects
-
-### 📧 [NorthWind Outfitters — Email Campaign A/B Test](https://github.com/YOUR-USERNAME/northwind-ab-test) *(2026)*
-
-> Designed and executed a rigorous A/B test in Excel comparing personalised vs. standard marketing emails across a real campaign dataset.
-
-**Key result:** Personalised emails outperformed standard emails by an **11.82% practical significance margin**
-
-[![View Workbook](https://img.shields.io/badge/📂_View_Excel_Workbook-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/YOUR-USERNAME/northwind-ab-test)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-0f2027?style=flat-square)
-![Statistics](https://img.shields.io/badge/Hypothesis_Testing-2c5364?style=flat-square)
-
----
-
-### 📊 [Power BI Data Analysis Portfolio](https://github.com/YOUR-USERNAME/powerbi-portfolio) *(2026)*
-
-> A collection of Power BI dashboards and reports built during my analyst training at FSI Outsourcing — covering sales, survey, and operational data.
-
-[![View Dashboards](https://img.shields.io/badge/📊_View_Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/YOUR-USERNAME/powerbi-portfolio)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-4479A1?style=flat-square)
-![Data Modelling](https://img.shields.io/badge/Data_Modelling-203a43?style=flat-square)
-
----
-
-### ⚽ [PRC Football Academy Tournament App](https://github.com/YOUR-USERNAME/prc-football-app) *(2026)*
-
-> Team-built web application for managing player and academy registrations for a football tournament — delivered rapidly using AI-assisted development tools.
-
-[![View Project](https://img.shields.io/badge/🔗_View_Project-2c5364?style=flat-square)](https://github.com/YOUR-USERNAME/prc-football-app)
-![Web Dev](https://img.shields.io/badge/Web_Development-0f2027?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude_/_Anthropic-CC785C?style=flat-square)
-![Team Project](https://img.shields.io/badge/Team_Collaboration-203a43?style=flat-square)
-
----
-
 ## 🛠️ Skills
 
 <!-- Skill bars — no GitHub activity required -->
