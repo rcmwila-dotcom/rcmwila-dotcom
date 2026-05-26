@@ -43,13 +43,13 @@ I'm a data analyst and aspiring actuary who turns raw data into clear, decision-
 
 | Skill | Progress | Level |
 |:------|:---------|:-----:|
-| **Microsoft Excel** | `█████████░` | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
-| **Power BI** *(PL-300)* | `████████░░` | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
-| **Statistical Analysis** | `████████░░` | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
-| **AI-Assisted Workflows** | `████████░░` | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
-| **Financial Mathematics** | `███████░░░` | ![](https://img.shields.io/badge/Proficient-1B4B72?style=flat-square) |
-| **Risk & Insurance** | `███████░░░` | ![](https://img.shields.io/badge/Proficient-1B4B72?style=flat-square) |
-| **SQL** | `██████░░░░` | ![](https://img.shields.io/badge/Intermediate-2E6FA3?style=flat-square) |
+| **Microsoft Excel** | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-0D2E4A?style=flat-square) | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
+| **Power BI** *(PL-300)* | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0D2E4A?style=flat-square) | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
+| **Statistical Analysis** | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0D2E4A?style=flat-square) | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
+| **AI-Assisted Workflows** | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0D2E4A?style=flat-square) | ![](https://img.shields.io/badge/Advanced-0D2E4A?style=flat-square) |
+| **Financial Mathematics** | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-1B4B72?style=flat-square) | ![](https://img.shields.io/badge/Proficient-1B4B72?style=flat-square) |
+| **Risk & Insurance** | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-1B4B72?style=flat-square) | ![](https://img.shields.io/badge/Proficient-1B4B72?style=flat-square) |
+| **SQL** | ![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-2E6FA3?style=flat-square) | ![](https://img.shields.io/badge/Intermediate-2E6FA3?style=flat-square) |
 
 ---
 
