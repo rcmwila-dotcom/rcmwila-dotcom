@@ -11,8 +11,8 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ronald--chibale-1B4B72?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-chibale)
-[![Email](https://img.shields.io/badge/Email-rcmwila%40gmail.com-1B4B72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcmwila@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Lusaka,_Zambia-open_to_remote-1B4B72?style=for-the-badge)](https://en.wikipedia.org/wiki/Lusaka)
+[![Email](https://img.shields.io/badge/email-rcmwila%40gmail.com-1B4B72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcmwila@gmail.com)
+[![Location](https://img.shields.io/badge/📍_lusaka,_zambia-open_to_remote-1B4B72?style=for-the-badge)](https://en.wikipedia.org/wiki/Lusaka)
 
 </div>
 
@@ -22,17 +22,15 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="60%">
 
-**Hi, I'm Ronald** — a data analyst and aspiring actuary who turns raw data into clear, decision-ready insights. I work across **Excel**, **Power BI**, and **SQL**, and leverage AI-assisted workflows — including Claude — to move faster and communicate findings to any audience.
+I'm a data analyst and aspiring actuary who turns raw data into clear, decision-ready insights. I actively blend AI-assisted workflows with analytical rigour to deliver faster, sharper results.
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="40%">
 
-**📌 At a glance**
-
-📍 &nbsp; Lusaka, Zambia<br>
-🔍 &nbsp; Currently learning: Advanced SQL & BI storytelling<br>
+🤖 &nbsp; AI-augmented workflows — Claude / Anthropic<br>
+🔍 &nbsp; Deepening: Advanced SQL & BI storytelling<br>
 🤝 &nbsp; Open to: Data Analyst · Actuarial Analyst roles<br>
 
 </td>
@@ -43,25 +41,36 @@
 
 ## 🛠️ Skills
 
-| Skill | Proficiency |
-|:------|:------------|
-| **Microsoft Excel** | `█████████░` Advanced |
-| **Power BI** | `████████░░` Advanced *(PL-300 Certified)* |
-| **SQL** | `██████░░░░` Intermediate |
-| **Statistical Analysis** | `████████░░` Advanced |
-| **Financial Mathematics** | `███████░░░` Proficient |
-| **Risk & Insurance Concepts** | `███████░░░` Proficient |
-| **AI-Assisted Workflows** | `████████░░` Advanced |
-
-<div align="center">
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-1B4B72?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-1B4B72?style=for-the-badge&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1B4B72?style=for-the-badge&logo=mysql&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_%2F_Anthropic-1B4B72?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1B4B72?style=for-the-badge&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Microsoft_Excel-1B4B72?style=flat-square&logo=microsoft-excel&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Advanced-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-0D2E4A?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Power_BI_%E2%80%94_PL--300-1B4B72?style=flat-square&logo=powerbi&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Advanced-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0D2E4A?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Statistical_Analysis-1B4B72?style=flat-square&logo=scipy&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Advanced-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0D2E4A?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AI--Assisted_Workflows-1B4B72?style=flat-square&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Advanced-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0D2E4A?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Financial_Mathematics-1B4B72?style=flat-square&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Proficient-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-1B4B72?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Risk_%26_Insurance_Concepts-1B4B72?style=flat-square&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Proficient-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-1B4B72?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/SQL-1B4B72?style=flat-square&logo=mysql&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Intermediate-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-2E6FA3?style=flat-square" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -81,7 +90,7 @@
 
 **FSI Outsourcing** — Completed an intensive bootcamp in Excel, Power BI, and SQL. Applied Anthropic Academy prompt-engineering techniques to augment productivity in research, data interpretation, and report drafting.
 
-**KCM Green Limited** — Contributed to a World Bank–funded Climate Data Rescue & Digitization project at the Zambia Meteorological Department. Helped sort, scan, and digitize **one and a half million** historical meteorological records into a searchable electronic database.
+**KCM Green Limited** — Contributed to a World Bank–funded Climate Data Rescue & Digitization project at the Zambia Meteorological Department. Helped sort, scan, and digitize **more than half a million** historical meteorological records into a searchable electronic database.
 
 **Zambia Statistical Agency** — Supported the Measles-Rubella Vaccine Post-Campaign Coverage Survey (Ministry of Health / ZSA / WHO / Johns Hopkins University), conducting household interviews and capturing clean, analyzable field data across Luapula and Northern provinces.
 
@@ -112,8 +121,8 @@
 
 Open to **data analyst roles**, **actuarial trainee opportunities**, and **collaborative projects** across Africa and beyond.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1B4B72?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-chibale)
-[![Email](https://img.shields.io/badge/Send_an_Email-1B4B72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcmwila@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/connect_on_linkedin-1B4B72?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-chibale)
+[![Email](https://img.shields.io/badge/send_an_email-1B4B72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcmwila@gmail.com)
 
 <br>
 
