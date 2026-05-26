@@ -41,36 +41,15 @@ I'm a data analyst and aspiring actuary who turns raw data into clear, decision-
 
 ## 🛠️ Skills
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Microsoft_Excel-1B4B72?style=flat-square&logo=microsoft-excel&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Advanced-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-0D2E4A?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Power_BI_%E2%80%94_PL--300-1B4B72?style=flat-square&logo=powerbi&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Advanced-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0D2E4A?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Statistical_Analysis-1B4B72?style=flat-square&logo=scipy&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Advanced-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0D2E4A?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/AI--Assisted_Workflows-1B4B72?style=flat-square&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Advanced-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0D2E4A?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Financial_Mathematics-1B4B72?style=flat-square&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Proficient-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-1B4B72?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Risk_%26_Insurance_Concepts-1B4B72?style=flat-square&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Proficient-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-1B4B72?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/SQL-1B4B72?style=flat-square&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Intermediate-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-2E6FA3?style=flat-square" /></td>
-  </tr>
-</table>
+| Tool | Skill | Progress | Level |
+|:-----|:------|:---------|:-----:|
+| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=microsoft-excel&logoColor=white) | **Microsoft Excel** | `█████████░` | Advanced |
+| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=powerbi&logoColor=white) | **Power BI** *(PL-300)* | `████████░░` | Advanced |
+| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=scipy&logoColor=white) | **Statistical Analysis** | `████████░░` | Advanced |
+| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=anthropic&logoColor=white) | **AI-Assisted Workflows** | `████████░░` | Advanced |
+| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=chartdotjs&logoColor=white) | **Financial Mathematics** | `███████░░░` | Proficient |
+| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=shield&logoColor=white) | **Risk & Insurance** | `███████░░░` | Proficient |
+| ![](https://img.shields.io/badge/-1B4B72?style=flat-square&logo=mysql&logoColor=white) | **SQL** | `██████░░░░` | Intermediate |
 
 ---
 
