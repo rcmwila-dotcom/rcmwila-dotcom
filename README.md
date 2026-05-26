@@ -24,22 +24,14 @@
 <tr>
 <td valign="top" width="55%">
 
-**Hi, I'm Ronald** — a data analyst and aspiring actuary based in Lusaka, Zambia, with a BSc in Actuarial Science from the University of Zambia.
-
-I specialise in turning messy data into clear, decision-ready insights using **Excel**, **Power BI**, and **SQL**. I hold the **Microsoft PL-300** certification and actively apply AI-assisted workflows — including prompt engineering with Claude — to work faster and smarter.
-
-My background spans field research, large-scale data digitization, and structured analyst training, giving me both technical depth and real-world grounding.
+**Hi, I'm Ronald** — a data analyst and aspiring actuary who turns raw data into clear, decision-ready insights. I work across **Excel**, **Power BI**, and **SQL**, and leverage AI-assisted workflows — including Claude — to move faster and communicate findings to any audience.
 
 </td>
 <td valign="top" width="45%">
 
 **📌 At a glance**
 
-🎓 &nbsp; BSc Actuarial Science — UNZA (2023)<br>
-🏅 &nbsp; Microsoft Certified PL-300<br>
-💼 &nbsp; Data Analyst in Training — FSI Outsourcing<br>
 📍 &nbsp; Lusaka, Zambia<br>
-🤖 &nbsp; AI-augmented workflows (Claude / Anthropic)<br>
 🔍 &nbsp; Currently learning: Advanced SQL & BI storytelling<br>
 🤝 &nbsp; Open to: Data Analyst · Actuarial Analyst roles<br>
 
@@ -89,7 +81,7 @@ My background spans field research, large-scale data digitization, and structure
 
 **FSI Outsourcing** — Completed an intensive bootcamp in Excel, Power BI, and SQL. Applied Anthropic Academy prompt-engineering techniques to augment productivity in research, data interpretation, and report drafting.
 
-**KCM Green Limited** — Contributed to a World Bank–funded Climate Data Rescue & Digitization project at the Zambia Meteorological Department. Helped sort, scan, and digitize **one million** historical meteorological records into a searchable electronic database.
+**KCM Green Limited** — Contributed to a World Bank–funded Climate Data Rescue & Digitization project at the Zambia Meteorological Department. Helped sort, scan, and digitize **one and a half million** historical meteorological records into a searchable electronic database.
 
 **Zambia Statistical Agency** — Supported the Measles-Rubella Vaccine Post-Campaign Coverage Survey (Ministry of Health / ZSA / WHO / Johns Hopkins University), conducting household interviews and capturing clean, analyzable field data across Luapula and Northern provinces.
 
