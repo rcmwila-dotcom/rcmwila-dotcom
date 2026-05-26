@@ -82,7 +82,7 @@ open_to:    Data Analyst · Actuarial Analyst · BI Developer roles
 
 **FSI Outsourcing** — Completed an intensive bootcamp in Excel, Power BI, and SQL. Applied Anthropic Academy prompt-engineering techniques to augment productivity in research, data interpretation, and report drafting.
 
-**KCM Green Limited** — Contributed to a World Bank–funded Climate Data Rescue & Digitization project at the Zambia Meteorological Department. Helped sort, scan, and digitize **one million** historical meteorological records into a searchable electronic database.
+**KCM Green Limited** — Contributed to a World Bank–funded Climate Data Rescue & Digitization project at the Zambia Meteorological Department. Helped sort, scan, and digitize **more than half a million** historical meteorological records into a searchable electronic database.
 
 **Zambia Statistical Agency** — Supported the Measles-Rubella Vaccine Post-Campaign Coverage Survey (Ministry of Health / ZSA / WHO / Johns Hopkins University), conducting household interviews and capturing clean, analyzable field data across Luapula and Northern provinces.
 
